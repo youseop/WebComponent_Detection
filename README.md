@@ -4,9 +4,8 @@ Detect Web Component (button, img, sentences, etc..)
 For the project that announce the words in the component for someone who cannot see the word or sentence properly.
 
 I think there are some problems when loading .ipynb in github
-I have some problems with opening .ipynb 
 
-[here are the link where you can check Jupyter Notebook file](https://nbviewer.jupyter.org/github/youseop/WebComponent_Detection/blob/master/WebComponent_Detection.ipynb)
+so, [here are the link where you can check Jupyter Notebook file](https://nbviewer.jupyter.org/github/youseop/WebComponent_Detection/blob/master/WebComponent_Detection.ipynb)
 
 Thanks.
 
