@@ -12,8 +12,7 @@ Thanks.
 
 # Epoch : 50 (2020-11-11)
 ## Learning Curve
-
-![1](https://user-images.githubusercontent.com/66366941/98833152-0cdb1e80-2481-11eb-80ea-6482917b2805.JPG)
+<img src="https://user-images.githubusercontent.com/66366941/98833152-0cdb1e80-2481-11eb-80ea-6482917b2805.JPG" width="70%">
 ----------------------------------------------------
 
 ## Output screen - only one img detected
