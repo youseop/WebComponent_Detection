@@ -42,7 +42,15 @@ Training tooks almost 6 hours.
 
 #### confid : 0.4
 
-<img src="https://user-images.githubusercontent.com/66366941/98974427-3dda5280-2558-11eb-92f4-e3da9b55655c.JPG" width="70%">
+<img src="https://user-images.githubusercontent.com/66366941/98974560-63675c00-2558-11eb-8263-d9af937f16d0.JPG" width="50%">
 
 
+#### confid : 0.35
 
+<img src="https://user-images.githubusercontent.com/66366941/98974642-7da13a00-2558-11eb-8210-c20ad18a721c.JPG" width="50%">
+
+#### confid : 0.2
+
+<img src="https://user-images.githubusercontent.com/66366941/98974574-695d3d00-2558-11eb-8a23-f6bcef7f4aff.JPG" width="50%">
+
+<img src="https://user-images.githubusercontent.com/66366941/98974640-7d08a380-2558-11eb-97e4-77affe13e06d.JPG" width="50%">
