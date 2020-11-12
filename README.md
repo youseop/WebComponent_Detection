@@ -1,7 +1,7 @@
 # WebComponent_Detection
 Detect Web Component (button, img, sentences, etc..)
 
-For the project which is announce the words in the component for someone who cannot see the word or sentence properly
+For the project that announce the words in the component for someone who cannot see the word or sentence properly.
 
 I think there are some problems when loading .ipynb in github
 
