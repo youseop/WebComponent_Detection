@@ -9,7 +9,7 @@ I think there are some problems when loading .ipynb in github
 Thanks.
 
 -----------------------------------------------------
-## Epoch : 50 (2020-11-11)
+# Epoch : 50 (2020-11-11)
 Learning Curve
 
 ![1](https://user-images.githubusercontent.com/66366941/98833152-0cdb1e80-2481-11eb-80ea-6482917b2805.JPG)
@@ -19,8 +19,10 @@ Output screen - only one img detected
 - confid:0.6
 
 ![2](https://user-images.githubusercontent.com/66366941/98833155-0d73b500-2481-11eb-9ea7-a2337ab3e358.JPG)
+
 -----------------------------------------------------
-## Epoch : 500 (2020-11-12)
+
+# Epoch : 500 (2020-11-12)
 Training tooks almost 6 hours.
 
 ![ca](https://user-images.githubusercontent.com/66366941/98973304-ec7d9380-2556-11eb-8d65-2a06909235b2.JPG)
